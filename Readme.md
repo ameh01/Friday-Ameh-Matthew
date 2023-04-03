@@ -29,7 +29,7 @@ https://friday-ameh-matthew.netlify.app/
 
 
 ## Tools Used 🛠️
-* <b>GitHub Pages</b> - To host my static website (HTML, CSS, JS).
+* <b>Netlify App</b> - To host my static website (HTML, CSS, JS).
 
 ## Contributing 💡
 #### Step 1
